@@ -1,5 +1,5 @@
-/*Define a function to input variable length string and store it in an array without
-memory wastage*/
+/*Write a program to input and print text using dynamic memory allocation*/
+
 #include <stdio.h>
 #include <stdlib.h>
 int main()
